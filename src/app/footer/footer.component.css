@@ -1,0 +1,39 @@
+.docs-footer {
+    background: #3f51b5;
+    color: #fff;
+    padding: 12px;
+    font-size: 12px;
+}
+
+.docs-footer-list {
+    align-items: center;
+    display: flex;
+    flex-flow: row wrap;
+    padding: 8px;
+}
+
+.docs-footer-logo{
+    flex: 1;
+}
+
+.docs-footer-version {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+}
+
+
+
+
+
+
+
+.docs-footer-copyright {
+    display: flex;
+    flex: 1;
+    justify-content: flex-end;
+    flex-direction: column;
+    min-width: 225px;
+    margin-top: 16px;
+}
